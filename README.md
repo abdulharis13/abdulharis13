@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm abdulharis13</h1>
 <h3 align="center">A passionate Web Developer</h3>
-<!--
-**abdulharis13/abdulharis13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
